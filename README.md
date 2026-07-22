@@ -110,62 +110,179 @@ Paste a sample of your recommender's output here as a text block so a reader can
 
 ```
 ============================================================
-  🎵  TOP RECOMMENDATIONS
+  🎵  TOP RECOMMENDATIONS — High-Energy Pop
 ============================================================
-  Profile: genre=pop, mood=happy, energy=0.8
+  Profile: genre=pop, mood=happy, energy=0.9
 ------------------------------------------------------------
 
   1. Sunrise City — Neon Echo
-     Score: 11.34   [pop · happy]
+     Score: 10.94   [pop · happy]
      Reasons:
        • matches favorite genre (pop)
        • matches favorite mood (happy)
-       • energy is a close match (+1.96)
-       • tempo is a close match (+1.45)
-       • valence is a close match (+0.96)
-       • danceability is a close match (+0.99)
-       • acousticness is a close match (+0.98)
+       • energy is a close match (+1.84)
+       • tempo is a close match (+1.25)
+       • valence is a close match (+0.99)
+       • danceability is a close match (+0.94)
+       • acousticness is a close match (+0.92)
 
   2. Gym Hero — Max Pulse
-     Score: 8.68   [pop · intense]
+     Score: 9.18   [pop · intense]
      Reasons:
        • matches favorite genre (pop)
-       • energy is a close match (+1.74)
-       • tempo is a close match (+1.20)
-       • valence is a close match (+0.97)
-       • danceability is a close match (+0.92)
-       • acousticness is a close match (+0.85)
+       • energy is a close match (+1.94)
+       • tempo is a close match (+1.40)
+       • valence is a close match (+0.92)
+       • danceability is a close match (+0.97)
+       • acousticness is a close match (+0.95)
 
   3. Rooftop Lights — Indigo Parade
-     Score: 8.14   [indie pop · happy]
+     Score: 7.80   [indie pop · happy]
      Reasons:
        • matches favorite mood (happy)
-       • energy is a close match (+1.92)
+       • energy is a close match (+1.72)
        • tempo is a close match (+1.40)
-       • valence is a close match (+0.99)
-       • danceability is a close match (+0.98)
-       • acousticness is a close match (+0.85)
+       • valence is a close match (+0.96)
+       • danceability is a close match (+0.97)
+       • acousticness is a close match (+0.75)
 
-  4. Night Drive Loop — Neon Echo
-     Score: 5.75   [synthwave · moody]
+  4. Pulse Reactor — Kilohertz
+     Score: 6.15   [edm · euphoric]
      Reasons:
-       • energy is a close match (+1.90)
-       • tempo is a close match (+1.25)
-       • valence is a close match (+0.69)
+       • energy is a close match (+1.88)
+       • tempo is a close match (+1.50)
+       • valence is a close match (+0.89)
+       • danceability is a close match (+0.95)
+       • acousticness is a close match (+0.93)
+
+  5. Storm Runner — Voltline
+     Score: 5.32   [rock · intense]
+     Reasons:
+       • energy is a close match (+1.98)
+       • tempo is a close match (+0.90)
+       • valence is a close match (+0.63)
+       • danceability is a close match (+0.81)
+       • acousticness is a close match (+1.00)
+
+============================================================
+
+============================================================
+  🎵  TOP RECOMMENDATIONS — Chill Lofi
+============================================================
+  Profile: genre=lofi, mood=chill, energy=0.35
+------------------------------------------------------------
+
+  1. Library Rain — Paper Lanterns
+     Score: 11.34   [lofi · chill]
+     Reasons:
+       • matches favorite genre (lofi)
+       • matches favorite mood (chill)
+       • energy is a close match (+2.00)
+       • tempo is a close match (+1.42)
+       • valence is a close match (+1.00)
+       • danceability is a close match (+0.97)
+       • acousticness is a close match (+0.94)
+
+  2. Midnight Coding — LoRoom
+     Score: 11.09   [lofi · chill]
+     Reasons:
+       • matches favorite genre (lofi)
+       • matches favorite mood (chill)
+       • energy is a close match (+1.86)
+       • tempo is a close match (+1.42)
+       • valence is a close match (+0.96)
        • danceability is a close match (+0.93)
+       • acousticness is a close match (+0.91)
+
+  3. Focus Flow — LoRoom
+     Score: 9.20   [lofi · focused]
+     Reasons:
+       • matches favorite genre (lofi)
+       • energy is a close match (+1.90)
+       • tempo is a close match (+1.38)
+       • valence is a close match (+0.99)
+       • danceability is a close match (+0.95)
        • acousticness is a close match (+0.98)
 
-  5. Pulse Reactor — Kilohertz
-     Score: 5.65   [edm · euphoric]
+  4. Spacewalk Thoughts — Orbit Bloom
+     Score: 7.67   [ambient · chill]
      Reasons:
-       • energy is a close match (+1.68)
-       • tempo is a close match (+1.30)
-       • valence is a close match (+0.94)
+       • matches favorite mood (chill)
+       • energy is a close match (+1.86)
+       • tempo is a close match (+1.12)
+       • valence is a close match (+0.95)
+       • danceability is a close match (+0.86)
+       • acousticness is a close match (+0.88)
+
+  5. Paper Boats — Willow & Wren
+     Score: 5.89   [folk · wistful]
+     Reasons:
+       • energy is a close match (+1.96)
+       • tempo is a close match (+1.18)
+       • valence is a close match (+0.97)
        • danceability is a close match (+0.90)
-       • acousticness is a close match (+0.83)
+       • acousticness is a close match (+0.89)
+
+============================================================
+
+============================================================
+  🎵  TOP RECOMMENDATIONS — Deep Intense Rock
+============================================================
+  Profile: genre=rock, mood=intense, energy=0.95
+------------------------------------------------------------
+
+  1. Storm Runner — Voltline
+     Score: 11.20   [rock · intense]
+     Reasons:
+       • matches favorite genre (rock)
+       • matches favorite mood (intense)
+       • energy is a close match (+1.92)
+       • tempo is a close match (+1.42)
+       • valence is a close match (+0.92)
+       • danceability is a close match (+0.94)
+       • acousticness is a close match (+1.00)
+
+  2. Gym Hero — Max Pulse
+     Score: 7.18   [pop · intense]
+     Reasons:
+       • matches favorite mood (intense)
+       • energy is a close match (+1.96)
+       • tempo is a close match (+0.93)
+       • valence is a close match (+0.63)
+       • danceability is a close match (+0.72)
+       • acousticness is a close match (+0.95)
+
+  3. Iron Verdict — Ashen Crown
+     Score: 5.88   [metal · aggressive]
+     Reasons:
+       • energy is a close match (+1.94)
+       • tempo is a close match (+1.18)
+       • valence is a close match (+0.91)
+       • danceability is a close match (+0.92)
+       • acousticness is a close match (+0.94)
+
+  4. Pulse Reactor — Kilohertz
+     Score: 5.09   [edm · euphoric]
+     Reasons:
+       • energy is a close match (+1.98)
+       • tempo is a close match (+0.83)
+       • valence is a close match (+0.66)
+       • danceability is a close match (+0.70)
+       • acousticness is a close match (+0.93)
+
+  5. Night Drive Loop — Neon Echo
+     Score: 4.64   [synthwave · moody]
+     Reasons:
+       • energy is a close match (+1.60)
+       • tempo is a close match (+0.38)
+       • valence is a close match (+0.91)
+       • danceability is a close match (+0.87)
+       • acousticness is a close match (+0.88)
 
 ============================================================
 ```
+
+The recommendations change significantly depending on the user profile, showing that the recommender responds to different musical preferences. The High-Energy Pop profile recommends upbeat songs with high energy, fast tempos, and mostly pop genres, such as Sunrise City and Gym Hero. The Chill Lofi profile shifts toward slower, lower-energy songs with lofi or ambient characteristics, such as Library Rain and Midnight Coding. The Deep Intense Rock profile prioritizes rock and other high-energy songs with intense moods, placing Storm Runner at the top while still recommending other energetic tracks when they closely match the target energy. These differences demonstrate that the scoring algorithm successfully adjusts recommendations based on the user's preferred genre, mood, and audio features rather than returning the same songs for every profile.
 
 **Screenshot or video** _(optional)_: <!-- Insert a screenshot or demo video link here -->
 
